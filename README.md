@@ -1,6 +1,6 @@
 - 👋 Hi, I’m N00bY24
-- 👀 I’m interested in many things. Programming, Gaming and other stuff.
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in many things. Programming, Gaming, GameDev, D&D, and other stuff.
+- 🌱 I’m currently learning C# & Godot.
 
 <!---
 (- 💞️ I’m looking to collaborate on ...)
